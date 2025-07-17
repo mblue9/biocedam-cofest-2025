@@ -2,18 +2,18 @@
 
 **Project for ISMB/ECCB 2025 CollaborationFest**
 
-**Co-Leads:**\ 
+**Co-Leads:**
 
-(core expertise for this project in bold)
+*(core expertise for this project in bold)*
 
-- [Maria Doyle](https://github.com/mblue9/) (**Bioconductor**, University of Limerick 🇮🇪)\
-- [Sebastian Lobentanzer](https://github.com/slobentanzer) (**LLMs/MCPs**, Helmholtz Munich 🇩🇪)\ 
+- [Maria Doyle](https://github.com/mblue9/) (**Bioconductor**, University of Limerick 🇮🇪)
+- [Sebastian Lobentanzer](https://github.com/slobentanzer) (**LLMs/MCPs**, Helmholtz Munich 🇩🇪)
 - [Hervé Ménager](https://github.com/hmenager) (**EDAM/bio.tools**, Institut Pasteur 🇫🇷)
 
-**Remote support from**:\
+**Remote support from**:
 
-- [Claire Rioualen](https://github.com/rioualen/) (**EDAM/bio.tools**, Institut Français de Bioinformatique 🇫🇷)\
-- [Vince Carey](https://github.com/vjcitn) (**Bioconductor**, Harvard Medical School 🇺🇸)\
+- [Claire Rioualen](https://github.com/rioualen/) (**EDAM/bio.tools**, Institut Français de Bioinformatique 🇫🇷)
+- [Vince Carey](https://github.com/vjcitn) (**Bioconductor**, Harvard Medical School 🇺🇸)
 - [Lori Shepherd](https://github.com/lshep) (**Bioconductor**, Roswell Park Comprehensive Cancer Center 🇺🇸) 
 
 ## Overview
@@ -31,16 +31,16 @@ While our current tooling uses EDAM, we know EDAM alone doesn’t cover everythi
 
 **Core Goals (2‑day focus)**
 
-- Explore adding Gemini backend support to `biocEDAM`\
-- Test `biocEDAM` on additional Bioconductor packages\
-- Collect feedback on EDAM term coverage and prompt quality\
+- Explore adding Gemini backend support to `biocEDAM`
+- Test `biocEDAM` on additional Bioconductor packages
+- Collect feedback on EDAM term coverage and prompt quality
 - Discuss how MCPs could support ontology‑aware metadata
 
 **Stretch Goals (if time allows)**
 
-- Abstract the LLM interface to support multiple providers\
-- Outline a follow‑up community blog post to share CoFest outcomes\
-- Sketch how MCP integration might look in future tooling\
+- Abstract the LLM interface to support multiple providers
+- Outline a follow‑up community blog post to share CoFest outcomes
+- Sketch how MCP integration might look in future tooling
 
 ## Participants
 
