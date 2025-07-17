@@ -8,6 +8,11 @@
 
 - [Maria Doyle](https://github.com/mblue9/) (**Bioconductor**, University of Limerick 🇮🇪)
 - [Sebastian Lobentanzer](https://github.com/slobentanzer) (**LLMs/MCPs**, Helmholtz Munich 🇩🇪)
+
+**Core Participants**
+
+*(Contributing expertise and guidance)*
+
 - [Hervé Ménager](https://github.com/hmenager) (**EDAM/bio.tools**, Institut Pasteur 🇫🇷)
 
 **Remote Support**:
@@ -56,8 +61,19 @@ While our current tooling uses EDAM, we know EDAM alone doesn’t cover everythi
 - A Bioconductor package developer or user
 - A domain expert with ideas on how your field’s software should be described
 
+## Getting Started (Beginner-Friendly)
+We welcome contributors of all experience levels — including beginners!
+
+If you're new to ontologies, R, or LLMs, here are a few simple ways to contribute:
+
+- Try running biocEDAM on a Bioconductor package (we can help you pick one!)
+- Review the EDAM terms it suggests - do they make sense?
+- Suggest improvements to the prompts or tag mappings
+- Join discussions on how software in your field should be described
+- We’ll be on-site (Maria & Sebastian) and happy to guide you through setup or answer questions. Just drop by!
+
 ## Input
-- [Google doc here](https://github.com/mblue9/biocedam-cofest-2025), feel free to add your name if interested in this project. You are also welcome to add any questions or comments you have.
+- [Google doc here](https://github.com/mblue9/biocedam-cofest-2025). Feel free to add your name if you're interested in this project, and to start connecting with others. You're also welcome to add any questions or comments.
 
 ## Links
 - [biocEDAM on GitHub](https://github.com/vjcitn/biocEDAM)
