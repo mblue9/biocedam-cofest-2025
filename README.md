@@ -53,7 +53,7 @@ While our current tooling uses EDAM, we know EDAM alone doesn’t cover everythi
 - A domain expert with ideas on how your field’s software should be described
 
 ## Input
-- Google doc here, feel free to add your name if interested in this project. You are also welcome to add any questions or comments you have.
+- [Google doc here](https://github.com/mblue9/biocedam-cofest-2025), feel free to add your name if interested in this project. You are also welcome to add any questions or comments you have.
 
 ## Links
 - [biocEDAM on GitHub](https://github.com/vjcitn/biocEDAM)
