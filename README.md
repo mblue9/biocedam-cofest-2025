@@ -66,7 +66,7 @@ While our current tooling uses EDAM, we know EDAM alone doesn’t cover everythi
 ## Getting Started (Beginner-Friendly)
 
 We welcome contributors of all experience levels - including beginners!
-[Onboarding material](https://docs.google.com/document/d/1i-YmUrXxyftS4lxopGX5i5C7UEfs_HXYuHS2_UFIDJ8/edit?usp=sharing)
+[Beginner's guide / onboarding document](https://docs.google.com/document/d/1i-YmUrXxyftS4lxopGX5i5C7UEfs_HXYuHS2_UFIDJ8/edit?usp=sharing)
 
 If you're new to ontologies, R, or LLMs, here are a few simple ways to contribute:
 
