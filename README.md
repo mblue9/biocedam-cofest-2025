@@ -13,7 +13,7 @@
 
 *(Contributing expertise and guidance)*
 
-- [Hervé Ménager](https://github.com/hmenager) (**EDAM/bio.tools**, Institut Pasteur 🇫🇷)
+- [Hervé Ménager](https://github.com/hmenager) (**EDAM/bio.tools**, Institut Pasteur and Institut Français de Bioinformatique 🇫🇷)
 
 **Remote Support**:
 
