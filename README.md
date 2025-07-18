@@ -23,7 +23,8 @@
 
 **Join us (during or after CoFest):**
 
-[Bioconductor Zulip](https://chat.bioconductor.org) channel #edam-collaboration
+- [Bioconductor Zulip](https://chat.bioconductor.org) channel #edam-collaboration
+- [BioHackathon 2025 (November 3-7) project page](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/13.md). Virtual registration is still open [here](https://biohackathon-europe.org/).
 
 ## Overview
 Finding the right bioinformatics software can be tricky. [Bioconductor alone has over 3,000 R packages](https://bioconductor.org/packages/release/BiocViews.html#___Software), each with its own focus, but describing them in a way that’s consistent and searchable is a challenge.
@@ -62,7 +63,7 @@ While our current tooling uses EDAM, we know EDAM alone doesn’t cover everythi
 - A domain expert with ideas on how your field’s software should be described
 
 ## Getting Started (Beginner-Friendly)
-We welcome contributors of all experience levels — including beginners!
+We welcome contributors of all experience levels - including beginners!
 
 If you're new to ontologies, R, or LLMs, here are a few simple ways to contribute:
 
