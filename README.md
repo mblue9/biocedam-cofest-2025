@@ -73,7 +73,7 @@ If you're new to ontologies, R, or LLMs, here are a few simple ways to contribut
 - We’ll be on-site (Maria & Sebastian) and happy to guide you through setup or answer questions. Just drop by!
 
 ## Input
-- [Google doc here](https://github.com/mblue9/biocedam-cofest-2025). Feel free to add your name if you're interested in this project, and to start connecting with others. You're also welcome to add any questions or comments.
+- [Google doc here](https://docs.google.com/document/d/1wc6Gt0zsrNWJkL13Fp3GvMOtoj2rDxCBgFnqbLnhuxU/edit?usp=sharing). Feel free to add your name if you're interested in this project, and to start connecting with others. You're also welcome to add any questions or comments.
 
 ## Links
 - [biocEDAM on GitHub](https://github.com/vjcitn/biocEDAM)
