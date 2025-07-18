@@ -79,7 +79,7 @@ If you're new to ontologies, R, or LLMs, here are a few simple ways to contribut
 ## Links
 - [biocEDAM on GitHub](https://github.com/vjcitn/biocEDAM)
 - [BioHackathon 2024 Preprint](https://osf.io/preprints/biohackrxiv/dsgnw_v1)
-- [Background blog post on EDAM tagging](https://vjcitn.github.io/vjcblog/posts/2025-05-09-edam/)
+- [Background blog post on EDAM tagging](https://blog.bioconductor.org/posts/2025-07-18-edam/)
 
 ## Further Reading
 - For broader context on Bioconductor’s direction and engineering practices:  
