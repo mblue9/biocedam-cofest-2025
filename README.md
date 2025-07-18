@@ -27,6 +27,7 @@
 - [BioHackathon 2025 (November 3-7) project page](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/13.md). Virtual registration is still open [here](https://biohackathon-europe.org/).
 
 ## Overview
+
 Finding the right bioinformatics software can be tricky. [Bioconductor alone has over 3,000 R packages](https://bioconductor.org/packages/release/BiocViews.html#___Software), each with its own focus, but describing them in a way that’s consistent and searchable is a challenge.
 
 One approach we’re exploring is [**biocEDAM**](https://github.com/vjcitn/biocEDAM), an experimental R package (in active development on GitHub) that already works with OpenAI’s GPT‑4o to extract and suggest [EDAM ontology](https://edamontology.org/) terms for Bioconductor packages. These tags improve discoverability and interoperability across the ecosystem.
@@ -35,7 +36,7 @@ However, using OpenAI requires an API key and billing setup, which can be a barr
 
 We’re also keen to explore future approaches, such as how [**Model Context Protocols (MCPs)**](https://modelcontextprotocol.io/introduction) might help LLMs access package metadata, and to hear from domain specialists on which terms best describe tools in their fields.  
 
-While our current tooling uses EDAM, we know EDAM alone doesn’t cover everything, input from people experienced in combining ontologies (like Wikidata or domain vocabularies) would be very welcome.
+While our current tooling uses EDAM, we know EDAM alone doesn’t cover everything. Input from people experienced in combining ontologies (like Wikidata or domain vocabularies) would be very welcome.
 
 ## Goals
 
@@ -63,7 +64,9 @@ While our current tooling uses EDAM, we know EDAM alone doesn’t cover everythi
 - A domain expert with ideas on how your field’s software should be described
 
 ## Getting Started (Beginner-Friendly)
+
 We welcome contributors of all experience levels - including beginners!
+[Onboarding material](https://docs.google.com/document/d/1i-YmUrXxyftS4lxopGX5i5C7UEfs_HXYuHS2_UFIDJ8/edit?usp=sharing)
 
 If you're new to ontologies, R, or LLMs, here are a few simple ways to contribute:
 
@@ -71,12 +74,14 @@ If you're new to ontologies, R, or LLMs, here are a few simple ways to contribut
 - Review the EDAM terms it suggests - do they make sense?
 - Suggest improvements to the prompts or tag mappings
 - Join discussions on how software in your field should be described
-- We’ll be on-site (Maria & Sebastian) and happy to guide you through setup or answer questions. Just drop by!
+- We’ll be on site (Maria and Sebastian) and happy to guide you through setup or answer questions, feel free to drop by.
 
 ## Input
+
 - [Google doc here](https://docs.google.com/document/d/1wc6Gt0zsrNWJkL13Fp3GvMOtoj2rDxCBgFnqbLnhuxU/edit?usp=sharing). Feel free to add your name if you're interested in this project, and to start connecting with others. You're also welcome to add any questions or comments.
 
 ## Links
+
 - [biocEDAM on GitHub](https://github.com/vjcitn/biocEDAM)
 - [BioHackathon 2024 Preprint](https://osf.io/preprints/biohackrxiv/dsgnw_v1)
 - [Background blog post on EDAM tagging](https://blog.bioconductor.org/posts/2025-07-18-edam/)
